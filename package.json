@@ -1,6 +1,6 @@
 {
   "name": "sql-proxy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A fastify server to proxy sql queries to a database",
   "main": "lib/index.js",
   "scripts": {
